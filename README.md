@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2&logoColor=white"/>
+<img src="https://image.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun990112)](https://solved.ac/yun990112/)
 
