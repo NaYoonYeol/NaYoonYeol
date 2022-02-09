@@ -1,4 +1,6 @@
-### Hi there 👋
+## my website https://gentle-mushroom-0912a9e00.1.azurestaticapps.net
+
+<!--### Hi there 👋
 #### I'm an evolving developer. Now I'm so into developing games.
 #### I like to learn. I've been studying DirectX recently and I'm going to set up my own website soon.
 
@@ -33,4 +35,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
