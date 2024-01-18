@@ -1,5 +1,9 @@
 ## my website [https://www.devyoon.com/](https://www.devyoon.com/)
 
+취미로 시작한 웹 개발 프로젝트 입니다.
+ASP .NET Core Blazor로 프론트엔드와 백엔드 전부 직접 개발하고 호스팅하여 서비스 중입니다.
+기술 블로그 하려고 만들어놓고 정작 게시글은 안쓰고 있습니다...
+
 <!--### Hi there 👋
 #### I'm an evolving developer. Now I'm so into developing games.
 #### I like to learn. I've been studying DirectX recently and I'm going to set up my own website soon.
