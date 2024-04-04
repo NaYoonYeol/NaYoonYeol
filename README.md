@@ -3,9 +3,15 @@
 #### “프로그래밍” 그 자체에 진지하고 열정이 있는 프로그래머입니다.
 #### 어떤 기술적인 문제를 맞닥뜨려도 도전하는 것을 즐길 줄 아는 프로그래머입니다.
 
-<p align="center">
-  <img src="https://yourimageurl.com/banner.png" alt="banner that says Your Name - software engineer, content creator">
-</p>
+<!--## ⛏️Tech
+### 🎮Game Development
+* Computer Graphics - DirectX11
+* Game Engine - <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/> <img src="https://img.shields.io/badge/cocos2d-x?style=flat-square&color=black"/>
+* Other - Win32 API
+### 🚀These are the languages I use for game development.<br/>
+> <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/-C%23-239120?logo=Csharp&style=flat-square"/> 
+> #### And sub<br/>
+> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>-->
 
 <!-- ## my website [https://www.devyoon.com/](https://www.devyoon.com/)
 
