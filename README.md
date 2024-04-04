@@ -1,8 +1,17 @@
-## my website [https://www.devyoon.com/](https://www.devyoon.com/)
+<h1 align="center">안녕하세요! <a href="https://www.devyoon.com/" target="_blank">나윤열입니다</a>. 👋</h1>
+
+#### “프로그래밍” 그 자체에 진지하고 열정이 있는 프로그래머입니다.
+#### 어떤 기술적인 문제를 맞닥뜨려도 도전하는 것을 즐길 줄 아는 프로그래머입니다.
+
+<p align="center">
+  <img src="https://yourimageurl.com/banner.png" alt="banner that says Your Name - software engineer, content creator">
+</p>
+
+<!-- ## my website [https://www.devyoon.com/](https://www.devyoon.com/)
 
 취미로 시작한 웹 개발 프로젝트 입니다.
 ASP .NET Core Blazor로 프론트엔드와 백엔드 전부 직접 개발하고 호스팅하여 서비스 중입니다.
-기술 블로그 하려고 만들어놓고 정작 게시글은 안쓰고 있습니다...
+기술 블로그 하려고 만들어놓고 정작 게시글은 안쓰고 있습니다... -->
 
 <!--### Hi there 👋
 #### I'm an evolving developer. Now I'm so into developing games.
